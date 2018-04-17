@@ -5,6 +5,6 @@
 </title>
 </head>
 <body>
-TEST
+header:Location("http://139.59.75.69");
 </body>
 </html>
